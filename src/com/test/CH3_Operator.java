@@ -66,6 +66,7 @@ public class CH3_Operator {
 	}
 	
 	public static void Operator7() {
+		// String str = new String("abc");
 		String str = "abc";
 		
 		boolean result = str.equals("str"); // str과 equals()내에 있는 문자열과 비교 bool값 반환
